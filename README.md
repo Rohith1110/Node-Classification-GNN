@@ -15,3 +15,4 @@ Visualizations: Visualization files will be generated in the root directory, dis
 
 ### Example Outputs
 Visualizations from previous experiments can be found in the repository.
+Both Visualisations are available. 
